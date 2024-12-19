@@ -69,7 +69,7 @@
 
 - JavaScript
   - [Docs](https://javascript.info/)
-  - [Assignments](https://github.com/ghousahmed/javascript-exercises)
+  - [Assignments](https://github.com/HammadByte/JS-Assignment)
   - Fetch API/ AJAX
 - Advanced Javascript (All ES Versions)
   - Variable Scoping
